@@ -1,7 +1,4 @@
 dead
 more bugs squashed (skill issue)
-<<<<<<< HEAD
 bocchi the cock
-=======
 society
->>>>>>> fix1
