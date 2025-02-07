@@ -3,9 +3,15 @@
 
 name: Test CI
 
-on: [push]
+on:
+  push:
+    branches: [ $default-branch ]
+  workflow_dispatch:
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+
 #   build:
 #     strategy:
 #       matrix:
