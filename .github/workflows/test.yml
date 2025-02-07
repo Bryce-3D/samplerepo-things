@@ -5,7 +5,7 @@ name: Test CI
 
 on: [push]
 
-# jobs:
+jobs:
 #   build:
 #     strategy:
 #       matrix:
