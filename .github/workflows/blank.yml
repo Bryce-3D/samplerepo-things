@@ -19,3 +19,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    steps:
+      - name: Something
+        uses: actions/checkout@master
