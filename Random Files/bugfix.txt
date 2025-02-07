@@ -2,3 +2,5 @@ dead
 more bugs squashed (skill issue)
 bocchi the cock
 society
+
+why do I have like a million txt files here wtf
