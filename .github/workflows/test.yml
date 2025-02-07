@@ -1,0 +1,20 @@
+# #Reference:
+# #https://github.com/se-edu/duke/blob/full-template/.github/workflows/gradle.yml
+
+name: Test CI
+
+on: [push]
+
+# jobs:
+#   build:
+#     strategy:
+#       matrix:
+#         platform: [windows-latest]
+#     runs-on: ${{ matrix.platform }}
+
+#     steps:
+#       - name: Something
+#         uses: actions/checkout@msater
+
+#       - name: Check something
+#         run: ./always-pass.sh
