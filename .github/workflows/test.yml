@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # - name: Something
+      - name: Something
       #   uses: actions/checkout@master
 
 
