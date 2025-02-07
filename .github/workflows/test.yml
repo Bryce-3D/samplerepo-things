@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Something
-      #   uses: actions/checkout@master
+        uses: actions/checkout@master
 
 
 
